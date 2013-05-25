@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>192.000000,160.000000,bluebox</string>
+	<string>176.000000,152.000000,bluebox</string>
+	<string>192.000000,144.000000,bluebox</string>
+	<string>256.000000,176.000000,bluebox</string>
+	<string>240.000000,184.000000,bluebox</string>
+	<string>208.000000,168.000000,bluebox</string>
+	<string>224.000000,176.000000,bluebox</string>
+	<string>272.000000,168.000000,bluebox</string>
+	<string>288.000000,160.000000,bluebox</string>
+	<string>272.000000,152.000000,bluebox</string>
+	<string>256.000000,144.000000,bluebox</string>
+	<string>240.000000,152.000000,bluebox</string>
+	<string>208.000000,136.000000,bluebox</string>
+	<string>224.000000,128.000000,bluebox</string>
+	<string>240.000000,120.000000,bluebox</string>
+	<string>256.000000,112.000000,bluebox</string>
+	<string>272.000000,120.000000,bluebox</string>
+	<string>288.000000,128.000000,bluebox</string>
+	<string>304.000000,136.000000,bluebox</string>
+	<string>320.000000,144.000000,bluebox</string>
+	<string>336.000000,152.000000,bluebox</string>
+	<string>320.000000,176.000000,bluebox</string>
+	<string>336.000000,168.000000,bluebox</string>
+	<string>352.000000,160.000000,bluebox</string>
+	<string>304.000000,184.000000,bluebox</string>
+	<string>288.000000,192.000000,bluebox</string>
+	<string>272.000000,200.000000,bluebox</string>
+	<string>256.000000,208.000000,bluebox</string>
+	<string>240.000000,216.000000,bluebox</string>
+	<string>224.000000,208.000000,bluebox</string>
+	<string>208.000000,200.000000,bluebox</string>
+	<string>192.000000,192.000000,bluebox</string>
+	<string>176.000000,184.000000,bluebox</string>
+	<string>160.000000,176.000000,bluebox</string>
+	<string>144.000000,168.000000,bluebox</string>
+	<string>128.000000,160.000000,bluebox</string>
+	<string>112.000000,152.000000,bluebox</string>
+	<string>128.000000,144.000000,bluebox</string>
+	<string>144.000000,136.000000,bluebox</string>
+	<string>160.000000,128.000000,bluebox</string>
+	<string>176.000000,120.000000,bluebox</string>
+	<string>192.000000,112.000000,bluebox</string>
+	<string>208.000000,104.000000,bluebox</string>
+	<string>224.000000,96.000000,bluebox</string>
+	<string>240.000000,88.000000,bluebox</string>
+</array>
+</plist>
