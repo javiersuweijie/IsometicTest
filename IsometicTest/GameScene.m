@@ -74,7 +74,14 @@ NSMutableArray* boxArray;
         
         boxArray = [[NSMutableArray alloc]init];
         NSLog(@"%f, %f",gameLayer.contentSize.height,gameLayer.contentSize.width);
-
+        
+        
+//        NSMutableDictionary* testDict = [[NSMutableDictionary alloc]init];
+//        [testDict setObject:@"100,100,blue" forKey:@"1"];
+//        [testDict setObject:@"140,100,blue" forKey:@"2"];
+//        NSArray *path = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory,NSUserDomainMask,YES);
+//        NSString *documentsDirectory = [path objectAtIndex:0];
+//        [testDict writeToFile:[documentsDirectory stringByAppendingPathComponent:@"testdict.plist"] atomically:YES];
         
     }
     return self;
